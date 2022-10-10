@@ -1,7 +1,6 @@
 /** @format */
 // https://www.w3schools.com/js/js_if_else.asp
 
-
 //xamp
 // run run
 // mysql - Admin
